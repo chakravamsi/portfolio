@@ -6,7 +6,7 @@ This is a responsive and modern portfolio website built to showcase my skills, p
 
 ## 📸 Live Demo
 
-👉 [View Live Site](https://chakravamsi.github.io/portfolio/)
+👉 [View Live Site](https://portfolio-fvqmujx3q-chakravamsis-projects.vercel.app/)
 👉 [View GitHub Repository](https://github.com/chakravamsi/portfolio)
 
 ---
